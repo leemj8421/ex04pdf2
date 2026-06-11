@@ -1,9 +1,11 @@
 streamlit
+langchain
+langchain-community
+langchain-text-splitters
+langchain-openai
+langchain-chroma
+langchain-classic
+langchain_core
+pypdf
 python-dotenv
-langchain_community
-langchain_text_splitters
-langchain_chroma
-langchain_openai
-langchain_classic.chains
-langchain_core.prompts
 protobuf==3.20.3
